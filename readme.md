@@ -1,4 +1,4 @@
-# 이두용🙈
+# DoubleDRG🙈
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doubleDRG)](https://github.com/doubleDRG/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doubleDRG)](https://github.com/doubleDRG/github-readme-stats)
 
